@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alicandartar
-- 👀 I’m interested in playwright,cypress test framework, test automation frameworks, js
-- 🌱 I’m currently learning js
+- 👀 I’m interested in product management, fintech, payment systems
 - 📫 How to reach me https://twitter.com/alicandartar , https://alicandartar.github.io/ , https://www.linkedin.com/in/alican-dartar-7982a4108/
 
 <!---
